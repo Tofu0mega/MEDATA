@@ -1,0 +1,41 @@
+[
+    {
+      "id": 1,
+      "title": "Report 1",
+      "disease": "Flu",
+      "checkedInDate": "2024-06-01",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac turpis vitae mi gravida lobortis. Sed dignissim, nulla sed interdum consequat, sem mauris congue lacus, sed sollicitudin lectus leo sit amet leo. Sed ullamcorper libero id lacus finibus, nec tincidunt sem rhoncus. Nam nec ligula eu elit malesuada vestibulum. Aliquam posuere odio quis libero ultrices, id vulputate enim accumsan. Vivamus sit amet felis ac libero varius dapibus.",
+      "name": "John Doe",
+      "age": 30,
+      "race": "Caucasian",
+      "ethnicity": "Non-Hispanic",
+      "allergies": "None",
+      "preConditions": "None",
+      "complaint": "Fever and body aches",
+      "diagnosis": "Influenza (Flu)",
+      "prescribedMedicines": "Acetaminophen, Ibuprofen",
+      "assignedDoctor": "Dr. Smith",
+      "hospital": "City Hospital",
+      "additionalNotes": "Patient seems to be responding well to treatment."
+    },
+    {
+      "id": 2,
+      "title": "Report 2",
+      "disease": "Cold",
+      "checkedInDate": "2024-06-03",
+      "content": "Nulla facilisi. Duis sit amet turpis eu lacus pretium congue. Donec nec odio sit amet tortor lobortis tristique. Duis vel lorem nec elit cursus varius vel nec ipsum. Cras porttitor orci vitae magna finibus, vitae venenatis ipsum molestie. Morbi nec blandit est. Mauris sodales ligula vel elit fringilla, sit amet ultrices leo aliquet. Integer facilisis purus ut nibh feugiat, at eleifend est accumsan.",
+      "name": "Jane Smith",
+      "age": 25,
+      "race": "Asian",
+      "ethnicity": "Chinese",
+      "allergies": "Penicillin",
+      "preConditions": "Asthma",
+      "complaint": "Sore throat and congestion",
+      "diagnosis": "Common Cold",
+      "prescribedMedicines": "Antihistamines, Decongestants",
+      "assignedDoctor": "Dr. Johnson",
+      "hospital": "County Medical Center",
+      "additionalNotes": "Patient should avoid exposure to cold air and get plenty of rest."
+    }
+  ]
+  
